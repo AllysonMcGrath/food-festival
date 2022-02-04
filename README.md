@@ -1,7 +1,5 @@
 # Food Festival-Progressive Web Applications(PWA)
 
-# Coding Bootcamp Portfolio-React
-
 ## Description
 
 The purpose of this project was to use turn an application into a Progressive Web Application. This meant auditing the performance with Lighthouse, optimizing the files and assets, and adding webpack and webpack-cli. The code was also split to separate concerns. Then a service worker was added and the web manifest was set up before converting the app into a downloadable PWA.
