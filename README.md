@@ -10,7 +10,7 @@ The purpose of this project was to use turn an application into a Progressive We
 
 To install this project, you can clone the repository by using the command prompt
 
-$ git clone https://github.com/AllysonMcGrath/foodfestival.git
+$ git clone https://github.com/AllysonMcGrath/food-festival.git
 
 Detailed instructions for cloning GitHub repositories can be found [here.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 
@@ -20,10 +20,10 @@ Detailed instructions for cloning GitHub repositories can be found [here.](https
 
 When displaying correctly, the website should look like this:
 
-![Site about Allyson McGrath with about me, portfolio, contact, and resume links ](./src/assets/images/reactportfoliosite.JPG)
+![Site about a food festival, with a large banner image and links to a schedule and tickets.](./foodfestivalsite.JPG)
 
 
-You can find the deployed app [here](https://allysonmcgrath.github.io/react-portfolio/).
+You can find the deployed app [here](https://allysonmcgrath.github.io/food-festival/).
 
 
 
